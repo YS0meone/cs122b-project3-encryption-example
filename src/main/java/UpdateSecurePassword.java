@@ -130,6 +130,7 @@ public class UpdateSecurePassword {
     }
 
     public static void main(String[] args) throws Exception {
+        updateCustomerPassword();
         updateEmployeesPassword();
     }
 
